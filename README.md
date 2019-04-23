@@ -57,7 +57,7 @@ Create an Alexa Developers Account (https://developer.amazon.com/), then
 The second step in the skill making process -
 
 
-Create a AWS - Amazon Web Services account (https://aws.amazon.com/console/), then
+Create an AWS - Amazon Web Services account (https://aws.amazon.com/console/), then
 
 1. Go to https://console.aws.amazon.com/console/home?region=us-east-1 and log in
 
