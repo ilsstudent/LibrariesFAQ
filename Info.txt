@@ -1,0 +1,30 @@
+What is an Alexa Skill: 
+•	Built-in or Custom skills that enables Amazon Alexa devices to respond to a number of different voice commands. 
+•	Examples of Built-in skills from Amazon (e.g. play music, provide weather forecasts, query Wikipedia, answer questions)
+•	Create Custom skills developed by third parties (USC) and certified by Amazon
+•	Enormous storehouse of third-party skills
+
+To build an Alexa Skill you need two platforms, one is Amazon Developer Console and the other is Amazon Web Services.
+Amazon Developer Console (Front end of the skill)
+•	Where you design the interaction model of the skill - intents, slots and utterances.
+Amazon Web Services (Back end of the skill – USC used Amazon's free 'AWS Lambda function')
+•	Where you create the functionality of your skill - returns responses to the intents and utterances.
+
+USC Alexa Skill Developers skill set: 
+•	Javascript
+•	Node.js
+•	JSON
+
+Alma API's:
+•	Ex Libris Developer's Network account (needed to create API keys for REST API's)
+•	Knowledge of Primo REST API's (https://developers.exlibrisgroup.com/primo/apis/)
+
+GitHub:
+•	Repository of USC Libraries Alexa skills
+•	(https://github.com/ilsstudent/AlexaLibrarySearch)
+•	(https://github.com/ilsstudent/EventsAndHours)
+•	(https://github.com/ilsstudent/LibrariesFAQ)
+
+Publishing: 
+•	Customized Alexa skills need to be submitted to Alexa skills store and pass a certification process before it can be published for public access
+•	Requirements: in addition to performing all required functional tests, the skill needs to meet Alexa policy and security requirements
