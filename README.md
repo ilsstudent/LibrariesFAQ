@@ -25,7 +25,7 @@ SUBJECT API -
 https://api-na.hosted.exlibrisgroup.com/primo/v1/search?q=sub,contains,ernest%20hemingway&offset=0&limit=10&vid=01USC_INST:01USC&tab=Everything&apikey=YOUR_INSTITUTIONS_API_KEY&qInclude=facet_rtype,include,books&scope=MyInst_and_CI&sortby=rank
 
 LIBRARY HOURS API -
-https://api-na.hosted.exlibrisgroup.com/almaws/v1/conf/libraries/LIBRARY_NAME/open-hours?from=today&format=json&apikey=<YOUR_INSTITUTIONS_API_KEY>
+https://api-na.hosted.exlibrisgroup.com/almaws/v1/conf/libraries/LIBRARY_NAME/open-hours?from=today&format=json&apikey=YOUR_INSTITUTIONS_API_KEY
 
 
 Amazon Alexa Requirements -
