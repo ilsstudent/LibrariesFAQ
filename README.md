@@ -27,6 +27,8 @@ https://api-na.hosted.exlibrisgroup.com/primo/v1/search?q=sub,contains,ernest%20
 LIBRARY HOURS API -
 https://api-na.hosted.exlibrisgroup.com/almaws/v1/conf/libraries/LIBRARY_NAME/open-hours?from=today&format=json&apikey=YOUR_INSTITUTIONS_API_KEY
 
+LIBRARY EVENTS API -
+https://libraries.usc.edu/events-json
 
 Amazon Alexa Requirements -
 
